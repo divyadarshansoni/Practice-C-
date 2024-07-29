@@ -291,6 +291,6 @@ int main(){
     // MergeSort(); //time complexity is n*logn  where base of log is 2
     // RecursiveBubbleSort(); // time complexity is n^2
     // RecursiveInsertionSort(); // time complextiy is n^2
-    QuickSort();
+    // QuickSort(); //time complexity is n*logn where base of log is 2
     return 0;
 }
